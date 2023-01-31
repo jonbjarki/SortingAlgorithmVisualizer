@@ -1,2 +1,2 @@
 # SortingAlgorithmVisualizer
-An app that visualizes sorting algorithms using pygame
+A sorting algorithm visualizer written in pygame
